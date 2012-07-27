@@ -1,4 +1,4 @@
-This repo will contain instructions for the other five ADDNAS repos:
+This repo is and index of the other five ADDNAS repos:
 
 https://github.com/wagle/addnas_source contains the source code for the ADDNAS linux distribution.
 
